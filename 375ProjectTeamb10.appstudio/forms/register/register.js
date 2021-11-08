@@ -16,10 +16,9 @@ btnRegister.onclick=function(){
   let registerState = inptRegisterState.value
   query = "INSERT INTO customer (username,password,name) VALUES ('" + registerUsername + "', '" + registerPassword + "', '" + registerName + "')"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
-  
-  
-  /*query = 'SELECT * FROM customer'
-  results = JSON.parse(req.responseText)
-  lblMessage.value = results
-  */
+
+}
+
+btnLoginForm.onclick=function(){
+  ChangeForm(
 }
