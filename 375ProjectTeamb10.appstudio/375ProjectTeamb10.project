@@ -23,8 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "register",
-            "register.json"
+            "keto",
+            "keto.json"
           ]
         }
       ],
@@ -47,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "register",
+      "firstform": "keto",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
