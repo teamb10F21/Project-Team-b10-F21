@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnPaleoDiet.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

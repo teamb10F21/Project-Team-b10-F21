@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnLowCarbDiet.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

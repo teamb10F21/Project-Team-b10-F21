@@ -23,8 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "register",
-            "register.json"
+            "Form1",
+            "Form1.json"
           ]
         },
         {
@@ -55,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "register",
+      "firstform": "Form1",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
