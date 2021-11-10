@@ -31,8 +31,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "diets",
-            "diets.json"
+
           ]
         }
       ],
@@ -55,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "register",
+      "firstform": "login",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

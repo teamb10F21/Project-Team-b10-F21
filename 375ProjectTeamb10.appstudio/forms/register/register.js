@@ -20,5 +20,6 @@ btnRegister.onclick=function(){
 }
 
 btnLoginForm.onclick=function(){
-  ChangeForm(
-}
+Login-Form-Michael
+  ChangeForm()
+
