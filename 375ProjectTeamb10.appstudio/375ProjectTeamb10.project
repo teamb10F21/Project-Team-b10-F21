@@ -26,6 +26,14 @@
             "register",
             "register.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "login",
+            "login.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "register",
+      "firstform": "login",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
