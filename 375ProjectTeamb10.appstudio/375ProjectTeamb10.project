@@ -31,8 +31,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "login",
-            "login.json"
+
           ]
         }
       ],
